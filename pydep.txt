@@ -1,5 +1,6 @@
 cryptography    []
 fluent-logger   [fluent]
+heat-dashboard  [horizon]
 ldappool        [(keystone ldap)]
 libvirt-python  [nova]
 purestorage     [(cinder purestorage) (nova purestorage)]
